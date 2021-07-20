@@ -6,7 +6,6 @@ title: AyePREET™
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://docs.google.com/drawings/d/e/2PACX-1vTaKn2IpZzMm6hWA3nFkXn0I1njXgKRWBfRFh3Oms4rTLP1wrWHyGrZxLwpSD_XrDFS5lGdgb4Yd1Xs/pub?w=1530&h=605
-  https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Peace_dove.svg/2108px-Peace_dove.svg.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
