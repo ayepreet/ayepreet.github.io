@@ -42,6 +42,8 @@ feature_row:
 
 Project seeded on 2021 07 19-20 
 
+Logo composition https://docs.google.com/drawings/d/1Q_fgNCbZ_3GfQ2FaKWYc9Fi1dg4_is6NanQ7rUfELYI/edit
+
 Image credit 
 https://commons.wikimedia.org/wiki/File:Peace_dove.svg 
 https://commons.wikimedia.org/wiki/File:WorldMap.svg
