@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>P</b>rogrammable <b>R</b>esources for<br><b>E</b>quitable <b>E</b>rudition of <b>T</b>echnoloy<br>
+  <b>P</b>rogrammable <b>R</b>esources for<br><b>E</b>quitable <b>E</b>rudition of <b>T</b>echnology<br>
   <small>
     <a href="https://colab.research.google.com/github/ayepages/template/blob/master/_tools/AyeBlog_Tools_by_AyeAI.ipynb">Create or Update Blog Posts</a>
   </small>
