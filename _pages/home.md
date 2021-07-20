@@ -5,7 +5,8 @@ hidden: true
 title: AyePREET™
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Peace_dove.svg/2108px-Peace_dove.svg.png
+  overlay_image: https://docs.google.com/drawings/d/e/2PACX-1vTaKn2IpZzMm6hWA3nFkXn0I1njXgKRWBfRFh3Oms4rTLP1wrWHyGrZxLwpSD_XrDFS5lGdgb4Yd1Xs/pub?w=1530&h=605
+  https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Peace_dove.svg/2108px-Peace_dove.svg.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
@@ -42,3 +43,5 @@ feature_row:
 {% include feature_row %}
 
 Project seeded on 2021 07 19-20 
+
+Image credit https://commons.wikimedia.org/wiki/File:Peace_dove.svg (See link for license)
