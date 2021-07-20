@@ -5,7 +5,7 @@ hidden: true
 title: AyePREET™
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Peace_dove.svg/2108px-Peace_dove.svg.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
