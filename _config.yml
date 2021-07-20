@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 # last update @srija-ieee
 
-title: AyePages™ Template
+title: AyePREET™
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a demo website meant for academic purposes.
+  Programmable Resources for <b>E</b>quitable Erudition of Technology
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyePages™ Template"
+  name   : "AyePREET™"
   avatar : "/assets/images/ayetutor.png"
-  bio    : "AyePages™ Template"
+  bio    : "Programmable Resources for the <b>Equitable</b> Erudition of Technology"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
