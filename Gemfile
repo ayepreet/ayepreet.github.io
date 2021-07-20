@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AyePages™ Template
+title: AyePREET™
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is  an AyePages™ template meant for academic purposes
+  Programmable Resources for the Equitable Erudition of Technology
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "AyePREET™"
   avatar : "/assets/images/ayetutor.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
