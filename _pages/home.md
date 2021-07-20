@@ -10,8 +10,7 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>AyePREET™ Programmable Resources for Equitable Erudition of Technoloy<br>
-  meant for academic purposes</b><br>
+  <b>P</b>rogrammable <b>R</b>esources for<br><b>E</b>quitable <b>E</b>rudition of <b>T</b>echnoloy<br>
   <small>
     <a href="https://colab.research.google.com/github/ayepages/template/blob/master/_tools/AyeBlog_Tools_by_AyeAI.ipynb">Create or Update Blog Posts</a>
   </small>
@@ -43,4 +42,9 @@ feature_row:
 
 Project seeded on 2021 07 19-20 
 
-Image credit https://commons.wikimedia.org/wiki/File:Peace_dove.svg (See link for license)
+Image credit 
+https://commons.wikimedia.org/wiki/File:Peace_dove.svg 
+https://commons.wikimedia.org/wiki/File:WorldMap.svg
+https://commons.wikimedia.org/wiki/File:Children_holding_hands_together.png
+
+(See links for license)
